@@ -47,4 +47,4 @@
 
 ### 📬 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/fabian-grajales-a542b5231/) 
+[LinkedIn](https://www.linkedin.com/in/fabian-grajales/) 

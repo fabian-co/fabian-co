@@ -20,8 +20,12 @@
     * Leveraging **Next.js**, **NestJS**, and **Prisma** to automate administrative workflows.
     * Integrating **AI into workflows** to optimize lesson planning and administrative tasks.
     * Actively developing new features to provide a complete management ecosystem for educational centers.
-* 📈 **[SelfEconomy](https://github.com/fabian-co/SelfEconomy)** – An AI-powered application designed to normalize bank statement data for efficient personal expense tracking.
+* 🎴 **[CardyFlash](https://cardyflash.com/)** – A flashcard platform with spaced repetition (SRS) and native audio to learn and remember English vocabulary.
+    * Built with **Next.js**, **NestJS**, **Prisma**, and **PostgreSQL**, with S3-compatible storage for decks and media.
+    * Imports **Anki** decks (`.apkg`) and offers a highly customizable SRS (intervals, multipliers, new-card limits).
+    * Uses **AI (Gemini + Vercel AI SDK)** to generate card translations.
 * 🤖 **AI Automations** – Creating custom agents and workflows using **n8n** and the **Vercel AI SDK**.
+* 📈 **[SelfEconomy](https://github.com/fabian-co/SelfEconomy)** – An AI-powered application designed to normalize bank statement data for efficient personal expense tracking.
 
 ### 🏛️ Legacy
 

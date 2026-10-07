@@ -28,6 +28,12 @@
 * 🤖 **AI Automations** – Creating custom agents and workflows using **n8n** and the **Vercel AI SDK**.
 * 📈 **[SelfEconomy](https://github.com/fabian-co/SelfEconomy)** – An AI-powered application designed to normalize bank statement data for efficient personal expense tracking.
 
+### 🌍 Open Source
+
+- 🎞️ **[RapidRAW](https://github.com/CyberTimon/RapidRAW)** – GPU-accelerated, open-source RAW photo editor (Tauri + Rust + React/TypeScript).
+  * **[#1865 – On-canvas relight light shapes with 3D aim](https://github.com/CyberTimon/RapidRAW/pull/1865)** (✅ merged): made AI relighting lights readable directly on the canvas. Each light type (point, spot, directional) has its own shape, drawn as a 3D projection of the same aim vector the Rust engine uses, plus a draggable aim handle and a widened elevation range (-180° to 180°) for backlight/rim-light setups.
+  * **[#1854 – AI relighting panel with movable lights](https://github.com/CyberTimon/RapidRAW/pull/1854)** (closed; reimplemented by the maintainer on `main`): my original proposal, with up to six movable lights over MoGe-2 normal/depth maps (ONNX, SHA-256 verified, cached per image), a Rust relight pass with diffuse + specular shading, 21 unit tests and translations for 15 locales. The maintainer credited it for proving the feature worked and built his own version on top of that idea; I then followed up with #1865.
+
 ### 🏛️ Legacy
 
 * 💸 **[SplitBill](https://github.com/fabian-co/SplitBill)** – One of my first ventures into programming; a utility app focused on clean logic and state management to simplify expense sharing among friends.

@@ -26,6 +26,9 @@
     * Built with **Next.js**, **NestJS**, **Prisma**, and **PostgreSQL**, with S3-compatible storage for decks and media.
     * All cards are generated with **AI (Gemini + Vercel AI SDK)** and fully customizable.
 * 🤖 **AI Automations** – Creating custom agents and workflows using **n8n** and the **Vercel AI SDK**.
+* 📝 **[MD Viewer](https://github.com/fabian-co/md-viewer)** – A lightweight, cross-platform Markdown viewer and editor for Windows, macOS, and Linux.
+    * Built with **Tauri 2** and **Rust**, with edit, split (live preview), and read-only views.
+    * Formatting toolbar, keyboard shortcuts, `.md` file association, and an approximate **LLM token counter** (o200k tokenizer).
 * 📈 **[SelfEconomy](https://github.com/fabian-co/SelfEconomy)** – An AI-powered application designed to normalize bank statement data for efficient personal expense tracking.
 
 ### 🌍 Open Source
